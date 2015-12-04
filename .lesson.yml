@@ -1,0 +1,8 @@
+---
+title: "Implementing a Design with Foundation"
+type: "challenge"
+description: "Use Foundation to implement a given design."
+visibility: "assign"
+tags: "foundation css"
+ignore:
+- "design-implementation.md"
